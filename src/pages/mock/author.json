@@ -1,0 +1,33 @@
+[
+    {
+      "ID": 6,
+      "Name": "Harper Lee",
+      "BirthDate": "1926-04-28",
+      "Biography": "Harper Lee was an American novelist, widely known for her novel 'To Kill a Mockingbird,' which won the Pulitzer Prize and became a classic of modern American literature."
+    },
+    {
+      "ID": 7,
+      "Name": "George Orwell",
+      "BirthDate": "1903-06-25",
+      "Biography": "George Orwell, born Eric Arthur Blair, was an English novelist and essayist known for his works '1984' and 'Animal Farm,' which are considered classics of dystopian literature."
+    },
+    {
+      "ID": 8,
+      "Name": "F. Scott Fitzgerald",
+      "BirthDate": "1896-09-24",
+      "Biography": "F. Scott Fitzgerald was an American novelist and short story writer, famous for his novel 'The Great Gatsby,' capturing the spirit of the Jazz Age in the United States."
+    },
+    {
+      "ID": 9,
+      "Name": "J.K. Rowling",
+      "BirthDate": "1965-07-31",
+      "Biography": "J.K. Rowling is a British author, best known for the 'Harry Potter' series. Her books have gained immense popularity worldwide and have been adapted into successful film franchises."
+    },
+    {
+      "ID": 10,
+      "Name": "J.D. Salinger",
+      "BirthDate": "1919-01-01",
+      "Biography": "J.D. Salinger was an American author known for his influential novel 'The Catcher in the Rye,' which explores the experiences of a disenchanted teenager named Holden Caulfield."
+    }
+  ]
+  
